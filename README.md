@@ -1,2 +1,1 @@
-# ClondeGoogle
-Copia de Google
+Google copia
